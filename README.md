@@ -8,6 +8,6 @@ DataSet
 
 |**Tipo de Projeto**|**Qtde de imagens por classe**|**Qtde de classes**|
 |--|--|--|
-|Classificação de Imagens|75|3|
+|Classificação de Imagens|100|3|
 
 ### Informações Adicionais
